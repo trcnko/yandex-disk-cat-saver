@@ -1,4 +1,4 @@
-# Coursework 1: Yandex Disk Integration 🎓
+# Yandex Disk Integration 🎓
 
 Учебный проект, демонстрирующий работу с REST API (Cataas и Яндекс.Диск).
 
